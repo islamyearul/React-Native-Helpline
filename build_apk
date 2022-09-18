@@ -42,8 +42,9 @@ android {
 Step 4
  cd.. android
 ./gradlew bundleRelease  //for bundle
+./gradlew assembleRelease  //for assemble
 
 
 
 resource https://reactnative.dev/docs/signed-apk-android
-./gradlew assembleRelease  //for assemble
+
